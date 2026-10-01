@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "LA MONA LISA",
+    "img": "/monalisa.jpg",
+    "descripcion": "Leonardo da Vinci. Creada entre 1503 y 1519. Famosa por la enigmática sonrisa de su modelo y su robo en 1911. Se encuentra en el Museo del Louvre de París.",
+    "color": "#e2c59e"
+  },
+  {
+    "id": 2,
+    "title": "EL GRITO",
+    "img": "/El grito.jpg",
+    "descripcion": "Edvard Munch. Creado en 1893. Icono universal de la angustia y la ansiedad humana. Se encuentra en el Museo Nacional de Noruega en Oslo.",
+    "color": "#e2c59e"
+  },
+  {
+    "id": 3,
+    "title": "NASA",
+    "img": "/NASA.jpg",
+    "descripcion": "Un astronauta de Artemis II tomó esta foto de la Tierra desde la ventana de la nave Orión tras completar la combustión translunar de inyección. Hay dos auroras y luz zodiacal.",
+    "color": "#e2c59e"
+  },
+  {
+    "id": 4,
+    "title": "IMPRESIÓN, SOL NACIENTE",
+    "img": "/impresion sol.jpg",
+    "descripcion": "Claude Monet. Quizá no sea el cuadro más famoso del movimiento impresionista, pero sí marcó un punto de inflexión en el mundo del arte. A este cuadro se debe el nombre de Impresionismo.",
+    "color": "#e2c59e"
+  },
+  {
+    "id": 5,
+    "title": "LA CAPILLA SIXTINA",
+    "img": "/Capilla sixtina.jpg",
+    "descripcion": "La Capilla Sixtina, Miguel Ángel. Pintada entre 1508 y 1512, es una de las obras más reconocidas del Renacimiento italiano. Se encuentra en la Ciudad del Vaticano.",
+    "color": "#e2c59e"
+  },
+  {
+    "id": 6,
+    "title": "LA ÚLTIMA CENA",
+    "img": "/ultima cena.jpg",
+    "descripcion": "La Última Cena, Leonardo da Vinci. Pintada entre 1495 y 1498, es una de las obras más reconocidas del Renacimiento italiano. Se encuentra en el convento de Santa Maria delle Grazie en Milán.",
+    "color": "#e2c59e"
+  },
+  {
+    "id": 7,
+    "title": "LA JOVEN DE LA PERLA",
+    "img": "/la joven de la perla.jpg",
+    "descripcion": "La joven de la perla, Johannes Vermeer. Uno de los retratos más bellos de la historia del arte, realizado sobre 1665. Puede verse en el museo Mauritshuis, en La Haya.",
+    "color": "#e2c59e"
+  },
+  {
+    "id": 8,
+    "title": "NACIMIENTO DE VENUS",
+    "img": "/nacimiento venus.jpg",
+    "descripcion": "Esta obra representa una escena de la mitología grecorromana, realizada en 1485. Es uno de los primeros desnudos paganos de la historia de la pintura y se encuentra en la Galería de los Uffizi en Florencia.",
+    "color": "#e2c59e"
+  }
+]
